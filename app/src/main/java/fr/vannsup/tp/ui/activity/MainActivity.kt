@@ -1,7 +1,8 @@
-package fr.vannsup.tp
+package fr.vannsup.tp.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import fr.vannsup.tp.R
 
 class MainActivity : AppCompatActivity() {
 
